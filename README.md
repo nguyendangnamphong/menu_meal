@@ -86,6 +86,4 @@ Kiểm Thử:
 Kiểm tra API bằng Postman và đảm bảo tính ổn định của hệ thống.           
 
 Triển Khai:           
-Tạo một icon để khởi chạy ứng dụng desktop.         
-
->>>>>>> 060e373aa7ea42d5bbb64ecacd8113f262627fb7
+Tạo một icon để khởi chạy ứng dụng desktop.     
