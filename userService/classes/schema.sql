@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 CREATE TABLE users (
     id INTEGER PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
@@ -10,4 +11,18 @@ CREATE SEQUENCE user_id_seq
     INCREMENT BY 1
     MINVALUE 100
     MAXVALUE 999
+=======
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    role VARCHAR(50) NOT NULL,
+    disliked_dishes TEXT
+);
+
+CREATE SEQUENCE user_id_seq
+    START WITH 100
+    INCREMENT BY 1
+    MINVALUE 100
+    MAXVALUE 999
+>>>>>>> 060e373aa7ea42d5bbb64ecacd8113f262627fb7
     NO CYCLE;
