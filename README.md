@@ -84,8 +84,6 @@ Xây dựng giao diện desktop và tích hợp với API backend.
 
 Kiểm Thử:         
 Kiểm tra API bằng Postman và đảm bảo tính ổn định của hệ thống.           
-           
-
 
 Triển Khai:           
 Tạo một icon để khởi chạy ứng dụng desktop.         
